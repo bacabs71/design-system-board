@@ -1,0 +1,32 @@
+body {font-family: "Nunito Sans", sans-serif; margin: 0 10%;}
+
+.header {font-family: "Nunito Sans", sans-serif;}
+
+.container {border: black 1px solid; margin: 10px auto; padding: 10px;}
+
+.color-panel {width: 33.1%; display: inline-block; text-align: center; margin-bottom: 5px;}
+
+.blue {background-color: #2d5dcc; color:white; padding: 5px 0;}
+
+.pink {background-color: #d957d9; color:white; padding: 5px 0;}
+
+.green {background-color: #4fe0b0; color:white; padding: 5px 0;}
+
+.beige {background-color: #efd9ca; color:black; padding: 5px 0;}
+
+.font-panel {display: inline-block; width: 49%; margin-top: 0; margin-bottom: 20px;}
+
+.font-label {text-decoration: underline; margin-top: 0;}
+
+.bold {font-weight: bold;}
+
+.italic {font-style: italic;}
+
+.source-code-pro {font-family: "Source Code Pro";}
+
+.nunito-sans {font-family: "Nunito Sans";}
+
+.poppins {font-family: "Poppins";}
+
+
+
